@@ -1,5 +1,5 @@
 context:
-  version: 1.2.1
+  version: "1.3.0"
 
 package:
   name: deadnix
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/astro/deadnix/archive/v${{ version }}.tar.gz
-  sha256: c72cfebe93390fc3c2b97ccaca3774c4c0b29e9bbc5701826d0fed74c6965c4e
+  sha256: 580d53eebb8c488e53be78b578ba85fc8389b8fa40435b1f11253b66ca290e7c
 
 build:
   number: 0
